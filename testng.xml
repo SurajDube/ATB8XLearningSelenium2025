@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/SURAJ DUBEY/IdeaProjects/ATB8XLearningSelenium2025">
+        <classes>
+            <class name="com.thetestingacademy.ex20082025.Selenium01">
+                <methods>
+                    <include name="test_Selenium"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.ex20082025.Selenium02">
+                <methods>
+                    <include name="test_Selenium"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.ex20082025.Selenium03">
+                <methods>
+                    <include name="test_Selenium"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.ex20082025.Selenium04">
+                <methods>
+                    <include name="test_Selenium"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.ex20082025.Selenium05">
+                <methods>
+                    <include name="test_Selenium"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.ex20082025.Selenium08">
+                <methods>
+                    <include name="testMethod01"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.ex20082025.Selenium09Options">
+                <methods>
+                    <include name="testMethod01incognito"/>
+                    <include name="testMethod01headless"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
