@@ -3,37 +3,37 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/SURAJ DUBEY/IdeaProjects/ATB8XLearningSelenium2025">
         <classes>
-            <class name="com.thetestingacademy.ex20082025.Selenium01">
+            <class name="com.thetestingacademy.ex20082025Part1.Selenium01">
                 <methods>
                     <include name="test_Selenium"/>
                 </methods>
             </class>
-            <class name="com.thetestingacademy.ex20082025.Selenium02">
+            <class name="com.thetestingacademy.ex20082025Part1.Selenium02">
                 <methods>
                     <include name="test_Selenium"/>
                 </methods>
             </class>
-            <class name="com.thetestingacademy.ex20082025.Selenium03">
+            <class name="com.thetestingacademy.ex20082025Part1.Selenium03">
                 <methods>
                     <include name="test_Selenium"/>
                 </methods>
             </class>
-            <class name="com.thetestingacademy.ex20082025.Selenium04">
+            <class name="com.thetestingacademy.ex20082025Part1.Selenium04">
                 <methods>
                     <include name="test_Selenium"/>
                 </methods>
             </class>
-            <class name="com.thetestingacademy.ex20082025.Selenium05">
+            <class name="com.thetestingacademy.ex20082025Part1.Selenium05">
                 <methods>
                     <include name="test_Selenium"/>
                 </methods>
             </class>
-            <class name="com.thetestingacademy.ex20082025.Selenium08">
+            <class name="com.thetestingacademy.ex20082025Part1.Selenium08">
                 <methods>
                     <include name="testMethod01"/>
                 </methods>
             </class>
-            <class name="com.thetestingacademy.ex20082025.Selenium09Options">
+            <class name="com.thetestingacademy.ex20082025Part1.Selenium09Options">
                 <methods>
                     <include name="testMethod01incognito"/>
                     <include name="testMethod01headless"/>
